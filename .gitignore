@@ -1,45 +1,45 @@
-### VisualStudioCode ###
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
-!.vscode/*.code-snippets
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
 
-# Local History for Visual Studio Code
-.history/
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
 
-# Built Visual Studio Code Extensions
-*.vsix
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
 
-### VisualStudioCode Patch ###
-# Ignore all local history of files
-.history
-.ionide
-
-### Windows ###
-# Windows thumbnail cache files
-Thumbs.db
-Thumbs.db:encryptable
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
 ehthumbs.db
-ehthumbs_vista.db
+Thumbs.db
 
-# Dump file
-*.stackdump
+# Git Files#
+######################
+*/*.git
 
-# Folder config file
-[Dd]esktop.ini
-
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
-
-# Windows Installer files
-*.cab
-*.msi
-*.msix
-*.msm
-*.msp
-
-# Windows shortcuts
-*.lnk
-
+# VSCode Thrash#
+######################
+.vscode
