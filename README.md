@@ -104,5 +104,5 @@ The table below presents the cursus curriculum in the chronological order in whi
  - ...
  ```
  
- * [42 Norms](https://github.com/jotavare/jotavare/blob/main/42/pdf/en_norm.pdf) - Information about 42 code norms. `PDF`
+ * [42 Norms](https://github.com/Drkpulse/42_Common-Core/blob/main/en.norm.pdf) - Information about 42 code norms. `PDF`
  * [Norminette](https://github.com/42School/norminette) - Tool by 42, to respect the code norm. `GitHub`
