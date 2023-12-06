@@ -106,3 +106,8 @@ The table below presents the cursus curriculum in the chronological order in whi
  
  * [42 Norms](https://github.com/Drkpulse/42_Common-Core/blob/main/en.norm.pdf) - Information about 42 code norms. `PDF`
  * [Norminette](https://github.com/42School/norminette) - Tool by 42, to respect the code norm. `GitHub`
+
+
+Some helpful Links
+https://github.com/byaliego/42-project-badges/tree/main
+https://github.com/ombhd/Cleaner_42
