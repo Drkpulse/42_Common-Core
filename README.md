@@ -60,14 +60,14 @@ The table below presents the cursus curriculum in the chronological order in whi
  | :----------------------------------------------------------- | :--------: | :----------: | :------------: | :------------: |
  |[Libft](https://github.com/Drkpulse/libft)                |  <img src="https://img.shields.io/github/languages/top/drkpulse/libft" /> | <img src="https://img.shields.io/badge/done-sucess" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" />  |<img src="https://img.shields.io/github/last-commit/drkpulse/libft"/>|
  | :dizzy:  1st Circle |
- |[get_next_line]()    |  | <img src="https://img.shields.io/badge/Registed-yellow" /> | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> | |
- |[ft_printf]()        |  | <img src="https://img.shields.io/badge/Registed-yellow" /> | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> | <img src="https://img.shields.io/github/last-commit/drkpulse/ft_printf"/>|
- |[Born2beroot]()      |  | <img src="https://img.shields.io/badge/Registed-yellow" /> | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> | |
+ |[get_next_line](https://github.com/Drkpulse/get_next_line)    | <img src="https://img.shields.io/github/languages/top/drkpulse/get_next_line" /> | <img src="https://img.shields.io/badge/done-sucess" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/drkpulse/get_next_line"/>|
+ |[ft_printf](https://github.com/Drkpulse/ft_printf)        | <img src="https://img.shields.io/github/languages/top/drkpulse/ft_printf" /> | <img src="https://img.shields.io/badge/done-sucess" /> | <img src="https://img.shields.io/badge/100%20%2F%20100-success" /> | <img src="https://img.shields.io/github/last-commit/drkpulse/ft_printf"/>|
+ |[Born2beroot](https://github.com/Drkpulse/born2beroot)      | <img src="https://img.shields.io/github/languages/top/drkpulse/born2beroot" /> | <img src="https://img.shields.io/badge/done-sucess" /> | <img src="https://img.shields.io/badge/125%20%2F%20100%20%E2%98%85-success" /> | <img src="https://img.shields.io/github/last-commit/drkpulse/born2beroot"/>|
  | :dizzy:  2nd Circle |
- |[push_swap]()        ||
- |[minitalk]()         ||
- |[so_long]()          ||
- |Exam Rank 02         ||
+ |[push_swap](https://github.com/Drkpulse/push_swap)        || <img src="https://img.shields.io/badge/Registed-yellow" /> | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> | <img src="https://img.shields.io/github/last-commit/drkpulse/push_swap"/>|
+ |[pipex](https://github.com/Drkpulse/pipex)         || <img src="https://img.shields.io/badge/Registed-yellow" /> | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> | <img src="https://img.shields.io/github/last-commit/drkpulse/pipex"/>|
+ |[so_long](https://github.com/Drkpulse/so_long)          || <img src="https://img.shields.io/badge/Registed-yellow" /> | <img src="https://img.shields.io/badge/0%20%2F%20100-gray" /> | <img src="https://img.shields.io/github/last-commit/drkpulse/so_long"/>|
+ |Exam Rank 02         || <img src="https://img.shields.io/badge/Registed-yellow" />
  | :dizzy:  3rd Circle |
  |[Philosophers]()     ||
  |[minishell]()        ||
@@ -86,7 +86,7 @@ The table below presents the cursus curriculum in the chronological order in whi
  | :dizzy:  6th Circle |
  |[ft_transcendence]() ||
  |Exam Rank 06         ||
- | :dizzy:  7th Circle |
+ | :dizzy:  7th Circle |
  
  ------
  </div>
